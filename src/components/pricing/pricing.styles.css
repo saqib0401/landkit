@@ -1,0 +1,21 @@
+.pricing {
+  background-color: #f1f4f8;
+  padding-top: 5rem;
+}
+.pricing-heading {
+  font-size: 2.3rem;
+  text-align: center;
+  font-weight: 400;
+  margin: 0;
+}
+
+.pricing-para {
+  font-size: larger;
+  text-align: center;
+  padding-top: 2rem;
+  padding-left: 30rem;
+  padding-right: 30rem;
+  color: #506690;
+  margin: 0;
+  padding-bottom: 5rem;
+}

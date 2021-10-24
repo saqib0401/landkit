@@ -1,0 +1,32 @@
+.getlandkit {
+  background-color: #1b2a4e;
+  text-align: center;
+  padding-bottom: 5rem;
+}
+.getlandkit h5 {
+  margin: 0;
+  color: #869aa0;
+  opacity: 0.4;
+  border-radius: 8px;
+  background-color: #203055;
+  padding-bottom: 1rem;
+}
+.getlandkit-heading {
+  color: #fff;
+  font-weight: 400;
+  font-size: 2.3rem;
+  margin: 0;
+}
+
+.getlandkit-para {
+  color: #869aa0;
+}
+.getlandkitBtn {
+  background-color: #42ba96;
+  color: #fff;
+  width: 8rem;
+  height: 3rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}

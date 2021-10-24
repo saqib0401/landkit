@@ -1,0 +1,32 @@
+.bootstrapThemes {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding-left: 15rem;
+  padding-right: 15rem;
+  background-color: #f9fbfd;
+}
+
+.bootstrapThemes-1 p {
+  color: #a59ab8;
+  font-size: large;
+}
+.bootstrap-heading {
+  font-weight: 400;
+  font-size: xx-large;
+}
+.bootstrap-heading-2 {
+  font-weight: 400;
+}
+
+.h3-span {
+  color: #3984ef;
+}
+.performance-img {
+  backface-visibility: hidden;
+  transform: rotateY(-35deg) rotateX(15deg);
+  border-radius: 0.625rem;
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+  box-sizing: border-box;
+}

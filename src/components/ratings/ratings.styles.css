@@ -1,0 +1,46 @@
+.ratings {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding-top: 10rem;
+  background-color: #f1f4f8;
+  padding-left: 15rem;
+  padding-right: 15rem;
+}
+
+.ratings-heading {
+  font-size: xx-large;
+  font-weight: 400;
+  margin: 0;
+}
+
+.ratings-heading span {
+  color: #586cea;
+}
+
+.ratings-para {
+  font-size: large;
+  padding-right: 8rem;
+  color: #506690;
+  line-height: 1.5;
+}
+
+.ratings-score {
+  font-size: large;
+  font-weight: 400;
+  margin: 0;
+}
+.ratings-review {
+  font-size: large;
+  color: #506690;
+  margin: 0;
+}
+
+.ratings-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-right: 40%;
+}
+.customer-img {
+  width: 100%;
+  height: auto;
+}

@@ -1,0 +1,36 @@
+.header {
+  margin-left: 15rem;
+  margin-right: 15rem;
+  margin-top: 1.5rem;
+}
+
+.heading {
+  color: #335eea;
+  display: inline;
+  font-size: x-large;
+  padding-right: 8rem;
+}
+
+.list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+.item {
+  display: inline;
+  padding-left: 3.5rem;
+}
+.item a {
+  text-decoration: none;
+}
+
+.header-btn {
+  background-color: #335eea;
+  color: #fff;
+  margin-left: 10rem;
+  height: 3rem;
+  width: 6rem;
+  border-radius: 10%;
+  cursor: pointer;
+}

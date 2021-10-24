@@ -1,0 +1,18 @@
+.testimonials {
+  text-align: center;
+  background-color: #f9fbfd;
+  margin: 0;
+  padding-bottom: 5rem;
+}
+.testimonials h3 {
+  margin: 0;
+  padding-top: 5rem;
+  font-size: xx-large;
+  font-weight: 400;
+}
+.testimonials p {
+  color: #a59ab8;
+  font-size: large;
+  padding: 3px;
+  margin: 0;
+}
